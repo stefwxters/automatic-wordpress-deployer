@@ -28,4 +28,4 @@ An automated, cross-distribution Bash script designed to provision a complete Wo
 ### 1. Clone or Download the Script
 Get the script onto your server. You can clone your repository or create the file manually:
 ```bash
-wget [https://raw.githubusercontent.com/stefwxters/automatic-wordpress-deployer/refs/heads/main/deploy-wordpress.sh]
+wget https://raw.githubusercontent.com/stefwxters/automatic-wordpress-deployer/refs/heads/main/deploy-wordpress.sh
